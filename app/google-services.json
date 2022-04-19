@@ -1,0 +1,69 @@
+{
+  "project_info": {
+    "project_number": "991128052077",
+    "project_id": "daily-tweets-aa8df",
+    "storage_bucket": "daily-tweets-aa8df.appspot.com",
+    "firebase_url": "https://example.firebaseio.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:991128052077:android:66372bdfb87cb931ec3a64",
+        "android_client_info": {
+          "package_name": "com.apps.bultech.newdailytweets"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "991128052077-ardc38je8rsp608j9qf9qg9euac3seo1.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyD-8uLtsAhyebx2Z1A8KGMD1jIZFPPaYHo"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "991128052077-ardc38je8rsp608j9qf9qg9euac3seo1.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:991128052077:android:074ac679dbdfac6fec3a64",
+        "android_client_info": {
+          "package_name": "com.pete.apps.dailytweetsimageuploader"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "991128052077-ardc38je8rsp608j9qf9qg9euac3seo1.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyD-8uLtsAhyebx2Z1A8KGMD1jIZFPPaYHo"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "991128052077-ardc38je8rsp608j9qf9qg9euac3seo1.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
